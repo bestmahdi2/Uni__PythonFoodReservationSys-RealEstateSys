@@ -1,0 +1,10 @@
+Number Of Document - City - Owner - Address - Construction Year - Postal Code - Floor - Area
+13123 - Isfahan - 1275376901 - Isfahan, Ahmad Abad - 1398 - 1234416211 - 1 - 140.0
+123152 - Isfahan - 1275376901 - Isfahan, Bozorgmehr - 1360 - 1234412211 - 1 - 100.0
+1478 - Isfahan - 0 - Isfahan, Bozorgmehr - 1380 - 1242116211 - 2 - 70.0
+2574 - Isfahan - 1295376921 - Isfahan, Jey - 1388 - 1236456211 - 3 - 80.0
+46373 - Isfahan - 0 - Isfahan, Khajoo - 1400 - 1543416211 - 3 - 90.0
+12012 - Isfahan - 1205376951 - Isfahan, Shahin Shahr - 1367 - 1876416211 - 3 - 110.0
+457862 - Isfahan - 1205376951 - Isfahan, Khajoo - 1375 - 1333416211 - 4 - 150.0
+31412 - Isfahan - 1215376971 - Isfahan, Ahmad Abad - 1370 - 1999416211 - 2 - 200.0
+85274 - Isfahan - 0 - Isfahan, Bozorgmehr - 1390 - 1095416211 - 1 - 95.0

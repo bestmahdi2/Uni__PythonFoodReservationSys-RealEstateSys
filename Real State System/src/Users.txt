@@ -1,0 +1,8 @@
+User - ID - Username - Password - First Name - Last Name - Phone Number - Email Address - Credit - Real Estates
+Manager - 1275376901 - manager1 - 1234 - Arezo - Aghabarati - 09137539514 - manager@gmail.com - 1.0E10 - [13123, 123152]
+Agent - 1285376931 - agent1 - 1234 - Zahra - Aghababaie - 09133219514 - agent1@gmail.com - 1.0000123E7 - []
+Agent - 1295376921 - agent2 - 1234 - Ali - Shams - 09135349514 - agent2@gmail.com - 5.0E8 - [1478, 2574]
+Seller - 1205376951 - seller1 - 1234 - Reza - Sadeghi - 09151639514 - seller1@gmail.com - 2000000.0 - [46373, 12012, 457862]
+Seller - 1215376971 - seller2 - 1234 - Davood - Davoodi - 09188639514 - seller2@gmail.com - 10000.0 - [31412]
+Customer - 1225376991 - customer1 - 1234 - Morteza - Sistani - 09109839514 - customer1@gmail.com - 9.958002468E9 - [85274, 123152]
+Customer - 1235376981 - customer2 - 1234 - Reza - Aghabarati - 09156439514 - customer2@gmail.com - 1.019E10 - [13123]

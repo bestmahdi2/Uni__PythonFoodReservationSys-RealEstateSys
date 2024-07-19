@@ -1,0 +1,63 @@
+Day                  | Appetizer            | Main Dish            | Side Dish            | Dessert              | Drink                | Cost                
+1                    | Salad                | Chicken & Rice       | Jelly                | Ice Cream            | Soda                 | 6500                
+2                    | Salad & Garlic Oil   | Kebab & Rice         | Soup                 | Fried Mushroom       | Soda                 | 4500                
+3                    | Salad                | Chicken Schnitzel    | Soup                 | Ice Cream            | Doogh                | 4000                
+4                    | Salad                | Chicken & Bread      | Soup                 | French Fries         | Doogh                | 5000                
+5                    | Salad & Garlic Oil   | Kebab & Bread        | Soup                 | Ice Cream            | Doogh                | 4500                
+6                    | Salad                | Salmon & Rice        | Jelly                | French Fries         | Soda                 | 5000                
+7                    | Salad                | Ghorme Sabzi         | Soup                 | Fried Mushroom       | Soda                 | 5000                
+8                    | Salad & Garlic Oil   | Dolme & Rice         | Jelly                | Ice Cream            | Doogh                | 5000                
+9                    | Salad                | Macaroni             | Soup                 | Ice Cream            | Soda                 | 3000                
+10                   | Salad                | Sandwich             | Soup                 | French Fries         | Soda                 | 4000                
+11                   | Salad                | Chicken & Rice       | Jelly                | Ice Cream            | Soda                 | 6500                
+12                   | Salad & Garlic Oil   | Kebab & Rice         | Soup                 | Fried Mushroom       | Soda                 | 4500                
+13                   | Salad                | Chicken Schnitzel    | Soup                 | Ice Cream            | Doogh                | 4000                
+14                   | Salad                | Chicken & Bread      | Soup                 | French Fries         | Doogh                | 5000                
+15                   | Salad & Garlic Oil   | Kebab & Bread        | Soup                 | Ice Cream            | Doogh                | 4500                
+16                   | Salad                | Salmon & Rice        | Jelly                | French Fries         | Soda                 | 5000                
+17                   | Salad                | Ghorme Sabzi         | Soup                 | Fried Mushroom       | Soda                 | 5000                
+18                   | Salad & Garlic Oil   | Dolme & Rice         | Jelly                | Ice Cream            | Doogh                | 5000                
+19                   | Salad                | Macaroni             | Soup                 | Ice Cream            | Soda                 | 3000                
+20                   | Salad                | Sandwich             | Soup                 | French Fries         | Soda                 | 4000                
+21                   | Salad                | Chicken & Rice       | Jelly                | Ice Cream            | Soda                 | 6500                
+22                   | Salad & Garlic Oil   | Kebab & Rice         | Soup                 | Fried Mushroom       | Soda                 | 4500                
+23                   | Salad                | Chicken Schnitzel    | Soup                 | Ice Cream            | Doogh                | 4000                
+24                   | Salad                | Chicken & Bread      | Soup                 | French Fries         | Doogh                | 5000                
+25                   | Salad & Garlic Oil   | Kebab & Bread        | Soup                 | Ice Cream            | Doogh                | 4500                
+26                   | Salad                | Salmon & Rice        | Jelly                | French Fries         | Soda                 | 5000                
+27                   | Salad                | Ghorme Sabzi         | Soup                 | Fried Mushroom       | Soda                 | 5000                
+28                   | Salad & Garlic Oil   | Dolme & Rice         | Jelly                | Ice Cream            | Doogh                | 5000                
+29                   | Salad                | Macaroni             | Soup                 | Ice Cream            | Soda                 | 3000                
+30                   | Salad                | Sandwich             | Soup                 | French Fries         | Soda                 | 4000                
+31                   | Salad                | Sandwich             | Soup                 | French Fries         | Soda                 | 4000                
++1                   | Salad                | Chicken & Rice       | Jelly                | Ice Cream            | Soda                 | 6500                
++2                   | Salad & Garlic Oil   | Kebab & Rice         | Soup                 | Fried Mushroom       | Soda                 | 4500                
++3                   | Salad                | Chicken Schnitzel    | Soup                 | Ice Cream            | Doogh                | 4000                
++4                   | Salad                | Chicken & Bread      | Soup                 | French Fries         | Doogh                | 5000                
++5                   | Salad & Garlic Oil   | Kebab & Bread        | Soup                 | Ice Cream            | Doogh                | 4500                
++6                   | Salad                | Salmon & Rice        | Jelly                | French Fries         | Soda                 | 5000                
++7                   | Salad                | Ghorme Sabzi         | Soup                 | Fried Mushroom       | Soda                 | 5000                
++8                   | Salad & Garlic Oil   | Dolme & Rice         | Jelly                | Ice Cream            | Doogh                | 5000                
++9                   | Salad                | Macaroni             | Soup                 | Ice Cream            | Soda                 | 3000                
++10                  | Salad                | Sandwich             | Soup                 | French Fries         | Soda                 | 4000                
++11                  | Salad                | Chicken & Rice       | Jelly                | Ice Cream            | Soda                 | 6500                
++12                  | Salad & Garlic Oil   | Kebab & Rice         | Soup                 | Fried Mushroom       | Soda                 | 4500                
++13                  | Salad                | Chicken Schnitzel    | Soup                 | Ice Cream            | Doogh                | 4000                
++14                  | Salad                | Chicken & Bread      | Soup                 | French Fries         | Doogh                | 5000                
++15                  | Salad & Garlic Oil   | Kebab & Bread        | Soup                 | Ice Cream            | Doogh                | 4500                
++16                  | Salad                | Salmon & Rice        | Jelly                | French Fries         | Soda                 | 5000                
++17                  | Salad                | Ghorme Sabzi         | Soup                 | Fried Mushroom       | Soda                 | 5000                
++18                  | Salad & Garlic Oil   | Dolme & Rice         | Jelly                | Ice Cream            | Doogh                | 5000                
++19                  | Salad                | Macaroni             | Soup                 | Ice Cream            | Soda                 | 3000                
++20                  | Salad                | Sandwich             | Soup                 | French Fries         | Soda                 | 4000                
++21                  | Salad                | Chicken & Rice       | Jelly                | Ice Cream            | Soda                 | 6500                
++22                  | Salad & Garlic Oil   | Kebab & Rice         | Soup                 | Fried Mushroom       | Soda                 | 4500                
++23                  | Salad                | Chicken Schnitzel    | Soup                 | Ice Cream            | Doogh                | 4000                
++24                  | Salad                | Chicken & Bread      | Soup                 | French Fries         | Doogh                | 5000                
++25                  | Salad & Garlic Oil   | Kebab & Bread        | Soup                 | Ice Cream            | Doogh                | 4500                
++26                  | Salad                | Salmon & Rice        | Jelly                | French Fries         | Soda                 | 5000                
++27                  | Salad                | Ghorme Sabzi         | Soup                 | Fried Mushroom       | Soda                 | 5000                
++28                  | Salad & Garlic Oil   | Dolme & Rice         | Jelly                | Ice Cream            | Doogh                | 5000                
++29                  | Salad                | Macaroni             | Soup                 | Ice Cream            | Soda                 | 3000                
++30                  | Salad                | Sandwich             | Soup                 | French Fries         | Soda                 | 4000                
++31                  | Salad                | Sandwich             | Soup                 | French Fries         | Soda                 | 4000                

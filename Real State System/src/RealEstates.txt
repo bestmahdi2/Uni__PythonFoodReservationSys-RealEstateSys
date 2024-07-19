@@ -1,0 +1,10 @@
+Type - Document - Temp Owner - Transaction Type - Value - Parking Area - Rooms - Furnished - Elevator - Balcony - Warehouse - Lobby
+Land - 13123 - 1235376981 - Rent - 1.0E9
+Land - 123152 - 1225376991 - Rent - 7.0E8
+House - 1478 - 1295376921 - Rent - 1.4E9 - 0.0 - 1 - true - true - false - false - false
+Land - 2574 - 0 - Free - 5.0E8
+House - 46373 - 1205376951 - Free - 1.2E9 - 0.0 - 2 - true - true - true - false - false
+Land - 12012 - 0 - Free - 7.0E8
+Land - 457862 - 0 - Mortgage - 8.0E8
+Land - 31412 - 0 - Free - 1.0E9
+House - 85274 - 1225376991 - Rent - 1.2E9 - 0.0 - 2 - true - true - true - false - false
